@@ -1,2 +1,2 @@
 # my-first-test-code
-my test
+this repo is for my practice
